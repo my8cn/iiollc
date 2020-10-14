@@ -1,0 +1,24 @@
+{
+  "name": "JDE Defi",
+  "logoURI": "https://www.iio.one/jde.svg",
+  "keywords": [
+      "JDE Defi",
+      "JDE swap"
+    ],
+  "timestamp": "2020-10-14T12:37:57.000+00:00",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xc196EAA6706a9f39F446c5f0254921964D698F0c",
+      "name": "JDE",
+      "symbol": "JDE",
+      "decimals": 18,
+      "logoURI": "https://www.iio.one/jde.svg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
