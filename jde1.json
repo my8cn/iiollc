@@ -1,0 +1,24 @@
+{
+  "name": "JDE Ddfi list",
+  "logoURI": "https://www.iio.one/jde.svg",
+  "keywords": [
+      "JDE Ddfi list",
+      "JDE Ddfi"
+    ],
+    "timestamp": "2020-10-013T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xc196EAA6706a9f39F446c5f0254921964D698F0c",
+      "name": "JUST FOR DECENTRALIZATION",
+      "symbol": "JDE",
+      "decimals": 18,
+      "logoURI": "https://www.iio.one/jde.svg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 0
+    }
+}
